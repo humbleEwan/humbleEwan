@@ -1,2 +1,2 @@
 # About me
-My name is David Sebesteny, I am a humble coder, but my aim is to become a game designer one day.
+My name is David Sebesteny, I want to become a game designer one day.
