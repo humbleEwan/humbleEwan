@@ -25,3 +25,4 @@ My name is David Sebesteny, I am a fullstack developer. In the future I wish to 
 * Micronaut
 * Unity
 * Autocad
+* ROS
