@@ -5,11 +5,11 @@ My name is David Sebesteny, I am a fullstack developer. In the future I wish to 
 * C++
 * Java
 * TypeScript
+* C#
 
 ### Languages that I have used to create complex "Hello World" algorithms:
 * Python
 * C
-* C#
 
 ### Languages that interests me:
 * COBOL
