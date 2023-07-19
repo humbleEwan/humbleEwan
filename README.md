@@ -21,6 +21,7 @@ My name is David Sebesteny, I am a fullstack developer. In the future I wish to 
 * Angular
 * Unreal Engine 4 / 5
 * Blender
+* STRAPI
 
 ### Technologies, frameworks, programs etc. that I have used in the past:
 * Java spring
