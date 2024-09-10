@@ -1,5 +1,5 @@
 # About me
-My name is David Sebesteny, I am a fullstack developer. In the future I wish to expand all of those lists down below, currently I wish to gain experience in the industry while finishing my batchelors degree in Computer Science Engineering.
+My name is David Sebesteny, and I am a fullstack developer currently pursuing a Bachelor's degree in Computer Science Engineering. I am focused on gaining industry experience while completing my studies, with the goal of expanding my expertise in the field in the future.
 
 ### Languages that I am not afraid of:
 * C++
